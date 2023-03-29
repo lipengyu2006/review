@@ -1,0 +1,22 @@
+{
+  "playlist": [
+    {
+      "title": "How bones make blood?",
+      "artist": "Melody Smith",
+      "album": "TED-ED",
+      "url": "./data/ted/audio/bones_blood.mp3",
+      "duration": "04:42",
+      "subtitle": "./data/ted/subtitle/bones_blood.srt",
+      "artwork": "./data/ted/ted.jpg"
+    },
+    {
+      "title": "Does stress cause pimples?",
+      "artist": "Claudia Aguirre",
+      "album": "TED-ED",
+      "url": "./data/ted/audio/stress_pimples.mp3",
+      "duration": "04:42",
+      "subtitle": "./data/ted/subtitle/stress_pimples.srt",
+      "artwork": "./data/ted/ted.jpg"
+    }
+  ]
+}
