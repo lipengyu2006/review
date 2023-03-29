@@ -5,11 +5,11 @@
     await Player5({
       playerWrapperElm: player,
       contentElm: content,
-      //playListURL: '../html/data/chapter3.json'
-      //playListURL: '../html/data/chapter4.json'
-      //playListURL: '../html/data/chapter5.json'
-      //playListURL: '../html/data/chapter6.json'
-      playListURL: '../html/data/ted.json'
+      //playListURL: './data/chapter3.json'
+      //playListURL: './data/chapter4.json'
+      //playListURL: './data/chapter5.json'
+      //playListURL: './data/chapter6.json'
+      playListURL: './data/ted.json'
     });
   });
 })();
