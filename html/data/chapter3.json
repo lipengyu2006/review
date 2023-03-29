@@ -1,0 +1,274 @@
+{
+  "playlist": [
+    {
+      "title": "The Great Pyramids Of Egypt",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track01.mp3",
+      "duration": "02:20",
+      "subtitle": "./data/eew3/subtitle/3track01.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "The Real Saint Nick",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track02.mp3",
+      "duration": "02:05",
+      "subtitle": "./data/eew3/subtitle/3track02.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "The Shepherd and the Wild Sheep",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track03.mp3",
+      "duration": "01:59",
+      "subtitle": "./data/eew3/subtitle/3track03.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "The Boy and His Sled",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track04.mp3",
+      "duration": "01:53",
+      "subtitle": "./data/eew3/subtitle/3track04.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "Trick or Treat!",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track05.mp3",
+      "duration": "02:03",
+      "subtitle": "./data/eew3/subtitle/3track05.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "The Senator and the Worm",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track06.mp3",
+      "duration": "02:04",
+      "subtitle": "./data/eew3/subtitle/3track06.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "Patsy Ann",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track07.mp3",
+      "duration": "01:56",
+      "subtitle": "./data/eew3/subtitle/3track07.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "The Anniversary Gift",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track08.mp3",
+      "duration": "02:04",
+      "subtitle": "./data/eew3/subtitle/3track08.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "Dalton vs. the Bully",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track09.mp3",
+      "duration": "02:07",
+      "subtitle": "./data/eew3/subtitle/3track09.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "Anna the Babysitter",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track10.mp3",
+      "duration": "02:08",
+      "subtitle": "./data/eew3/subtitle/3track10.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "July 28, 2017",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track11.mp3",
+      "duration": "02:40",
+      "subtitle": "./data/eew3/subtitle/3track11.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "The Ice Cream Cone Explosion",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track12.mp3",
+      "duration": "02:12",
+      "subtitle": "./data/eew3/subtitle/3track12.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "Sheriff Dan",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track13.mp3",
+      "duration": "02:01",
+      "subtitle": "./data/eew3/subtitle/3track13.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "The Helpful Apprentice",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track14.mp3",
+      "duration": "02:05",
+      "subtitle": "./data/eew3/subtitle/3track14.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "Why Monkey Has No Home",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track15.mp3",
+      "duration": "02:07",
+      "subtitle": "./data/eew3/subtitle/3track15.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "Matthew Learns a Lesson",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track16.mp3",
+      "duration": "02:17",
+      "subtitle": "./data/eew3/subtitle/3track16.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "The Magic Cup",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track17.mp3",
+      "duration": "02:03",
+      "subtitle": "./data/eew3/subtitle/3track17.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "The Knight’s Plan",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track18.mp3",
+      "duration": "02:07",
+      "subtitle": "./data/eew3/subtitle/3track18.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "The Magic Pear Tree",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track19.mp3",
+      "duration": "02:04",
+      "subtitle": "./data/eew3/subtitle/3track19.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "Little Wolf and Mother Wolf",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track20.mp3",
+      "duration": "02:09",
+      "subtitle": "./data/eew3/subtitle/3track20.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "Genes and Cancer",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track21.mp3",
+      "duration": "02:16",
+      "subtitle": "./data/eew3/subtitle/3track21.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "The Circus",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track22.mp3",
+      "duration": "02:04",
+      "subtitle": "./data/eew3/subtitle/3track22.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "Lazy Hans",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track23.mp3",
+      "duration": "02:09",
+      "subtitle": "./data/eew3/subtitle/3track23.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "Travel Writers",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track24.mp3",
+      "duration": "02:05",
+      "subtitle": "./data/eew3/subtitle/3track24.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "How Did Greenland Get Its Name?",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track25.mp3",
+      "duration": "02:10",
+      "subtitle": "./data/eew3/subtitle/3track25.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "Everyone Is Special",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track26.mp3",
+      "duration": "02:09",
+      "subtitle": "./data/eew3/subtitle/3track26.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "Pizarro and the Inco Gold",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track27.mp3",
+      "duration": "02:10",
+      "subtitle": "./data/eew3/subtitle/3track27.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "The Boy Who Saved the Town",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track28.mp3",
+      "duration": "01:55",
+      "subtitle": "./data/eew3/subtitle/3track28.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "An Interesting Life",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track29.mp3",
+      "duration": "02:08",
+      "subtitle": "./data/eew3/subtitle/3track29.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    },
+    {
+      "title": "The Island",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew3/audio/3track30.mp3",
+      "duration": "02:20",
+      "subtitle": "./data/eew3/subtitle/3track30.srt",
+      "artwork": "./data/eew3/chapter3.jpg"
+    }
+  ]
+}

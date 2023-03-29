@@ -1,0 +1,76 @@
+1
+00:00:02,468 --> 00:00:05,722
+Genes and Cancer
+
+2
+00:00:05,722 --> 00:00:12,230
+Cancer is a disease that develops because of unusual cell growth in the human body.
+
+3
+00:00:12,230 --> 00:00:19,747
+Cancer cells take over and attack healthy cells,
+leaving the normal working cells in a state of destruction.
+
+4
+00:00:19,747 --> 00:00:25,862
+Extensive research has been done to understand the link between genes and cancer.
+
+5
+00:00:25,862 --> 00:00:34,894
+A gene is what decides the traits a living thing may inherit.
+Genes can be found in the DNA of each cell in the body.
+
+6
+00:00:34,894 --> 00:00:41,794
+DNA contains a code that carries all the needed information about the qualities of a living thing.
+
+7
+00:00:41,794 --> 00:00:47,741
+Genes control how cells work by making proteins that have special jobs.
+
+8
+00:00:47,741 --> 00:00:56,100
+These proteins make up everything – bones, teeth, muscles, blood, etc. - in our bodies.
+
+9
+00:00:56,100 --> 00:01:03,617
+Genes pass on the DNA code to proteins that decide eye color, hair color, and skin color.
+
+10
+00:01:03,617 --> 00:01:08,834
+Furthermore, damaged DNA can sometimes be passed on as well.
+
+11
+00:01:08,834 --> 00:01:16,183
+The damaged DNA can eventually lead to gene changes, which then may result in a problem in the body.
+
+12
+00:01:16,183 --> 00:01:23,925
+Over time, the problem may become a disease and, sometimes, even become cancerous.
+
+13
+00:01:23,925 --> 00:01:36,043
+There are many different types of cancers.
+Breast cancer is the most common in the female population,
+while prostate cancer is most common in the male population.
+
+14
+00:01:36,043 --> 00:01:46,085
+Drinking alcohol increases the chances of developing cancer in different places of the body such as the head, neck, liver, or throat.
+
+15
+00:01:46,085 --> 00:01:51,526
+Cigarette smoking is the number one cause of lung cancer in the United States.
+
+16
+00:01:51,526 --> 00:01:59,941
+Studies also show a strong link between eating too much sugar and a higher risk of cancerous cells growing even faster.
+
+17
+00:01:59,941 --> 00:02:06,505
+Although scientists have been studying cancer,
+there is still no cure for the disease.
+
+18
+00:02:06,505 --> 00:02:14,752
+Hopefully, a cure will eventually be found and prevent the sadness that comes from losing a loved one to cancer.
