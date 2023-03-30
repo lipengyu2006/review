@@ -1,0 +1,274 @@
+{
+  "playlist": [
+    {
+      "title": "Environment Over Convenience",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track01.mp3",
+      "duration": "03:01",
+      "subtitle": "./data/eew6/subtitle/6track01.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "Debate Over the Elgin Marbles",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track02.mp3",
+      "duration": "02:40",
+      "subtitle": "./data/eew6/subtitle/6track02.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "Globalization",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track03.mp3",
+      "duration": "02:59",
+      "subtitle": "./data/eew6/subtitle/6track03.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Helpful Abbey",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track04.mp3",
+      "duration": "02:31",
+      "subtitle": "./data/eew6/subtitle/6track04.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "Small World",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track05.mp3",
+      "duration": "02:19",
+      "subtitle": "./data/eew6/subtitle/6track05.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Weaving Machine",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track06.mp3",
+      "duration": "02:47",
+      "subtitle": "./data/eew6/subtitle/6track06.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "Life on the Farm",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track07.mp3",
+      "duration": "02:23",
+      "subtitle": "./data/eew6/subtitle/6track07.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "Brothers",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track08.mp3",
+      "duration": "02:32",
+      "subtitle": "./data/eew6/subtitle/6track08.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Old Hound",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track09.mp3",
+      "duration": "02:27",
+      "subtitle": "./data/eew6/subtitle/6track09.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Big Ship",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track10.mp3",
+      "duration": "02:33",
+      "subtitle": "./data/eew6/subtitle/6track10.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "I Didn't Do It!",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track11.mp3",
+      "duration": "02:11",
+      "subtitle": "./data/eew6/subtitle/6track11.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Soldier's Decision",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track12.mp3",
+      "duration": "02:25",
+      "subtitle": "./data/eew6/subtitle/6track12.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Man and the Monkey",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track13.mp3",
+      "duration": "02:30",
+      "subtitle": "./data/eew6/subtitle/6track13.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "Cosmo's Flight",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track14.mp3",
+      "duration": "02:44",
+      "subtitle": "./data/eew6/subtitle/6track14.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Lottery",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track15.mp3",
+      "duration": "02:18",
+      "subtitle": "./data/eew6/subtitle/6track15.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "Jen's New Job",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track16.mp3",
+      "duration": "02:21",
+      "subtitle": "./data/eew6/subtitle/6track16.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Fossil Hunters",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track17.mp3",
+      "duration": "02:36",
+      "subtitle": "./data/eew6/subtitle/6track17.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Butler's Bad Day",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track18.mp3",
+      "duration": "02:37",
+      "subtitle": "./data/eew6/subtitle/6track18.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "Watch Out!",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track19.mp3",
+      "duration": "02:33",
+      "subtitle": "./data/eew6/subtitle/6track19.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Avalanche",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track20.mp3",
+      "duration": "02:34",
+      "subtitle": "./data/eew6/subtitle/6track20.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Butler",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track21.mp3",
+      "duration": "02:31",
+      "subtitle": "./data/eew6/subtitle/6track21.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Coward's Lesson",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track22.mp3",
+      "duration": "02:23",
+      "subtitle": "./data/eew6/subtitle/6track22.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Brute and the Billionaire",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track23.mp3",
+      "duration": "02:24",
+      "subtitle": "./data/eew6/subtitle/6track23.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Persistent Inventor",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track24.mp3",
+      "duration": "02:21",
+      "subtitle": "./data/eew6/subtitle/6track24.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Nurse's Lesson",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track25.mp3",
+      "duration": "02:18",
+      "subtitle": "./data/eew6/subtitle/6track25.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Mayor of Sherman",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track26.mp3",
+      "duration": "02:41",
+      "subtitle": "./data/eew6/subtitle/6track26.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Editor's Choice",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track27.mp3",
+      "duration": "02:10",
+      "subtitle": "./data/eew6/subtitle/6track27.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Kidnapping",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track28.mp3",
+      "duration": "02:35",
+      "subtitle": "./data/eew6/subtitle/6track28.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Lord and the Farmers",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track29.mp3",
+      "duration": "02:12",
+      "subtitle": "./data/eew6/subtitle/6track29.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    },
+    {
+      "title": "The Shortcut",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew6/audio/6track30.mp3",
+      "duration": "02:32",
+      "subtitle": "./data/eew6/subtitle/6track30.srt",
+      "artwork": "./data/eew6/chapter6.jpg"
+    }
+  ]
+}
