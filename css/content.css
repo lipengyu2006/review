@@ -71,7 +71,7 @@
 }
 
 
-#essay, #playlist {
+#essay, #playlist, #sortlist {
 	margin: 8px;
 }
 
@@ -119,6 +119,7 @@
   cursor: pointer;
 }
 .audio-duration {
+  display: none;
   width: 50px;
 }
 
@@ -129,6 +130,23 @@
 #playlist .line > .action {
   display: flex;
   flex-direction: row;
+}
+
+@media only screen and (min-width:480px) and (max-width:960px) {
+  #essay .line {
+    font-size: 14px;
+  }
+  .media-content p:not(:first-child) {
+    font-size: 14px;
+  }
+}
+@media only screen and (min-width:960px) {
+  #essay .line {
+    font-size: 16px;
+  }
+  .media-content p:not(:first-child) {
+    font-size: 16px;
+  }
 }
 
 .play-this {

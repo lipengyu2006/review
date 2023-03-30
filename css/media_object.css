@@ -56,3 +56,10 @@ img {
   flex-shrink: 1;
   text-align: inherit
 }
+
+.media-content p:first-child {
+  margin-bottom: 5px;
+}
+.media-content p:not(:first-child):first-letter {
+  color: #00a0ff;
+}

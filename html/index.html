@@ -9,13 +9,12 @@
 <link rel="stylesheet" href="../css/page.css">
 <link rel="stylesheet" href="../css/layout.css">
 <link rel="stylesheet" href="../css/content.css">
+<link rel="stylesheet" href="../css/nav.css">
 <link rel="stylesheet" href="../css/media_object.css">
 <link rel="stylesheet" href="../css/player.css">
-<!--
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jsmediatags/3.9.5/jsmediatags.min.js" integrity="sha512-YsR46MmyChktsyMMou+Bs74oCa/CDdwft7rJ5wlnmDzMj1mzqncsfJamEEf99Nk7IB0JpTMo5hS8rxB49FUktQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jsmediatags/3.9.5/jsmediatags.js" integrity="sha512-fCU+rmH3nS/RJaTSl/ylo/PxwWIZwJts3rfxRylSPqGYMJGPLXvPJGOTF+ECb0K5m9rSXbkCNg2PR7WKGWRTVQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
--->
+
 <script src="../dist/player5.min.js"></script>
+
 
 <title>Simple Audio Player</title>
 </head>
@@ -23,7 +22,7 @@
   <div id="page">
     <!--<div id="top">toptoptop</div>-->
     <div id="main">
-      <div id="left">
+      <div id="left" class="hide">
         <div id="left_head">
           <div class="logo">Audio Play 5</div>
         </div>
@@ -89,84 +88,29 @@
           <div class="tabs">
             <ul>
               <li data-index="0" class="on"><a><span>列表</span></a></li>
-              <li data-index="1"><a><span>句子</span></a></li>
-              <li data-index="2"><a><span>单词</span></a></li>
+              <li data-index="1"><a><span>清单</span></a></li>
+              <li data-index="2"><a><span>句子</span></a></li>
+              <li data-index="3"><a><span>单词</span></a></li>
             </ul>
           </div>
         </div>
         <div id="content_body">
           <div class="frame">
-            <div class="roll scroll playlist">
-              <!--
-              <div id="playlist">
-                <div class="lines">
-                  <div class="line current">
-                    <div class="action">
-                      <div><div class="playing"></div></div>
-                    </div>
-                    <div class="content">Why Monkey Has No Home</div>
-                    <div class="audio-duration">
-                      <span>3:10</span>
-                    </div>
+            <div class="roll scroll sortlist">
+              <div id="sortlist">
+                <div class="level_2">
+                  <div class="level_1">
+                    <a href="#">4000 Essential English Word (2nd Edition)</a>
                   </div>
-                  <div class="line">
-                    <div class="action">
-                      <div><div class="play-it"></div></div>
-                    </div>
-                    <div class="content">Matthew Learns a Lesson</div>
-                    <div class="audio-duration">
-                      <span>3:10</span>
-                    </div>
+                  <div class="level_1">
+                    <a href="#">Book 3</a>
                   </div>
                 </div>
               </div>
-              -->
             </div>
-            <div class="roll scroll essay hide">
-              <div id="essay"></div>
-            </div>
-            <div class="roll scroll words hide">
-              <div id="words">
-              <!--
-      <div class="words">
-        <div class="media">
-          <figure class="media-left">
-            <p class="image word">
-              <img src="../html/01_0002.jpg">
-            </p>
-          </figure>
-          <div class="media-content">
-            <div class="content">
-              <p>
-                <strong>anticipate</strong> <span>/ænˈtɪsɪpeɪt/</span> <small>v.</small>
-              </p>
-              <br/>
-              <p>To anticipate something is to think that it will happen.</p>
-              <p>Carrie anticipated the arrival of her baby.</p>
-            </div>
-          </div>
-        </div>
-        <div class="media">
-          <figure class="media-left">
-            <p class="image word">
-              <img src="../html/01_0002.jpg">
-            </p>
-          </figure>
-          <div class="media-content">
-            <div class="content">
-              <p>
-                <strong>anticipate</strong> <span>/ænˈtɪsɪpeɪt/</span> <small>v.</small>
-              </p>
-              <br/>
-              <p>To anticipate something is to think that it will happen.</p>
-              <p>Carrie anticipated the arrival of her baby.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-              -->
-              </div>
-            </div>
+            <div class="roll scroll playlist hide"></div>
+            <div class="roll scroll essay hide"></div>
+            <div class="roll scroll words hide"></div>
           </div>
         </div>
       </div>

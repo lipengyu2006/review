@@ -7,7 +7,12 @@
       "url": "./data/eew3/audio/3track01.mp3",
       "duration": "02:20",
       "subtitle": "./data/eew3/subtitle/3track01.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "01",
+        "name": "01.json"
+      }
     },
     {
       "title": "The Real Saint Nick",

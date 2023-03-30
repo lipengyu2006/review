@@ -1,0 +1,46 @@
+.level_2, .level_2 * {
+  display: flex;
+}
+
+.level_1 a {
+  color: #2a2a2a;
+  text-decoration: none;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  padding: 4px 3px;
+}
+.level_1 div,
+.level_2 div {
+  flex-direction: row;
+}
+.level_1,
+.level_2 {
+  flex-direction: column !important;
+}
+.level_1 {
+  flex: 0 0 auto;
+  justify-content: center;
+  cursor: pointer;
+}
+.level_2 > .level_1:first-child,
+.level_1 {
+  padding-left: 2px;
+}
+.level_2 > .level_1:not(:first-child) {
+  padding-left: 12px;
+}
+
+
+.level_2 > .level_1:first-child {
+  /*background: #ff7e67;*/
+}
+.level_2 > .level_1:not(:first-child):not(.on):hover {
+  background: #DEFCF9;
+}
+.level_2 > .level_1.on {
+  background: #00a0ff;
+}
+.level_2 > .level_1.on a {
+  color: #ffffff;
+}

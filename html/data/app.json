@@ -1,0 +1,32 @@
+[
+    {
+        "category": "4000 Essential English Word (2nd Edition)", 
+        "list": [
+            {
+                "name": "Book3", 
+                "path": "./data/chapter3.json"
+            }, 
+            {
+                "name": "Book4", 
+                "path": "./data/chapter4.json"
+            }, 
+            {
+                "name": "Book5", 
+                "path": "./data/chapter5.json"
+            }, 
+            {
+                "name": "Book6", 
+                "path": "./data/chapter6.json"
+            }
+        ]
+    }, 
+    {
+        "category": "TED-ED", 
+        "list": [
+            {
+                "name": "TED", 
+                "path": "./data/ted.json"
+            }
+        ]
+    }
+]
