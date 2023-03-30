@@ -1,0 +1,274 @@
+{
+  "playlist": [
+    {
+      "title": "The History of Chocolate",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track01.mp3",
+      "duration": "02:07",
+      "subtitle": "./data/eew5/subtitle/5track01.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "Monkey Island",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track02.mp3",
+      "duration": "02:19",
+      "subtitle": "./data/eew5/subtitle/5track02.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "The Young Man and the Old Man",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track03.mp3",
+      "duration": "02:05",
+      "subtitle": "./data/eew5/subtitle/5track03.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "The Singing Emperor",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track04.mp3",
+      "duration": "02:41",
+      "subtitle": "./data/eew5/subtitle/5track04.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "The Magic Computer",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track05.mp3",
+      "duration": "02:05",
+      "subtitle": "./data/eew5/subtitle/5track05.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "Dian & Digit",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track06.mp3",
+      "duration": "02:05",
+      "subtitle": "./data/eew5/subtitle/5track06.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "An Architect's Plan",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track07.mp3",
+      "duration": "02:06",
+      "subtitle": "./data/eew5/subtitle/5track07.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "Janie and the Music Player",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track08.mp3",
+      "duration": "02:24",
+      "subtitle": "./data/eew5/subtitle/5track08.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "Growing to be Great",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track09.mp3",
+      "duration": "02:04",
+      "subtitle": "./data/eew5/subtitle/5track09.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "Anton's Great Discovery",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track10.mp3",
+      "duration": "02:28",
+      "subtitle": "./data/eew5/subtitle/5track10.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "How a Singer Helped Win the War",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track11.mp3",
+      "duration": "02:10",
+      "subtitle": "./data/eew5/subtitle/5track11.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "The Sun and the North Wind",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track12.mp3",
+      "duration": "02:17",
+      "subtitle": "./data/eew5/subtitle/5track12.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "The Big Race",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track13.mp3",
+      "duration": "01:59",
+      "subtitle": "./data/eew5/subtitle/5track13.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "The Brothers and the Bread",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track14.mp3",
+      "duration": "02:09",
+      "subtitle": "./data/eew5/subtitle/5track14.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "Laika, the Space Dog",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track15.mp3",
+      "duration": "02:02",
+      "subtitle": "./data/eew5/subtitle/5track15.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "Gwen's New Friends",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track16.mp3",
+      "duration": "02:28",
+      "subtitle": "./data/eew5/subtitle/5track16.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "The Black Plague",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track17.mp3",
+      "duration": "02:23",
+      "subtitle": "./data/eew5/subtitle/5track17.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "The School Play",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track18.mp3",
+      "duration": "02:30",
+      "subtitle": "./data/eew5/subtitle/5track18.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "Isaac's First Plane Trip",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track19.mp3",
+      "duration": "02:30",
+      "subtitle": "./data/eew5/subtitle/5track19.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "Climbing Kilimanjaro",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track20.mp3",
+      "duration": "02:30",
+      "subtitle": "./data/eew5/subtitle/5track20.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "The Teller and the Thieves",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track21.mp3",
+      "duration": "01:49",
+      "subtitle": "./data/eew5/subtitle/5track21.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "The Scribe's Warning",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track22.mp3",
+      "duration": "02:27",
+      "subtitle": "./data/eew5/subtitle/5track22.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "How the Dinosaurs Really Died",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track23.mp3",
+      "duration": "02:05",
+      "subtitle": "./data/eew5/subtitle/5track23.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "Becoming a Healer",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track24.mp3",
+      "duration": "02:23",
+      "subtitle": "./data/eew5/subtitle/5track24.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "Gilbert and the Lizard",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track25.mp3",
+      "duration": "02:11",
+      "subtitle": "./data/eew5/subtitle/5track25.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "Jane's Pride",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track26.mp3",
+      "duration": "02:17",
+      "subtitle": "./data/eew5/subtitle/5track26.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "A Dying Forest",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track27.mp3",
+      "duration": "02:12",
+      "subtitle": "./data/eew5/subtitle/5track27.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "Thucydides and the Plague of Athens",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track28.mp3",
+      "duration": "02:26",
+      "subtitle": "./data/eew5/subtitle/5track28.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "The Solar Car Race",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track29.mp3",
+      "duration": "02:07",
+      "subtitle": "./data/eew5/subtitle/5track29.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    },
+    {
+      "title": "The Heirs",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew5/audio/5track30.mp3",
+      "duration": "02:40",
+      "subtitle": "./data/eew5/subtitle/5track30.srt",
+      "artwork": "./data/eew5/chapter5.jpg"
+    }
+  ]
+}
