@@ -1,0 +1,87 @@
+1
+00:00:02,121 --> 00:00:05,053
+Women in Tech
+
+2
+00:00:05,053 --> 00:00:08,250
+The digital economy is soaring.
+
+3
+00:00:08,250 --> 00:00:15,285
+There are over seven million jobs in the computer science and technology industries in the United States alone.
+
+4
+00:00:15,285 --> 00:00:20,214
+Yet there is still a major gender gap when it comes to women in tech.
+
+5
+00:00:20,214 --> 00:00:26,230
+These women face many challenges, as seen in a quit rate of 41 percent.
+
+6
+00:00:26,230 --> 00:00:29,915
+So what can be done to close this gender gap?
+
+7
+00:00:29,915 --> 00:00:33,690
+How can we ensure fair pay and equal opportunities?
+
+8
+00:00:33,690 --> 00:00:45,356
+First, women need to be inspired and motivated to enter the fields of science, technology, engineering, and mathematics (STEM), as well as computer science.
+
+9
+00:00:45,356 --> 00:00:53,841
+According to statistics, 74 percent of young women express interest in STEM subjects and computer science.
+
+10
+00:00:53,841 --> 00:01:02,731
+However, women hold only 18 percent of undergraduate computer science degrees and 26 percent of tech jobs.
+
+11
+00:01:02,731 --> 00:01:10,654
+Early education must convey technology as a tool that can be applied to real life to solve problems.
+
+12
+00:01:10,654 --> 00:01:17,392
+Many young women are put off because they view the technology sector to be too male-dominated.
+
+13
+00:01:17,392 --> 00:01:23,694
+Women lack prominent roles, holding only a mere five percent of tech leadership positions.
+
+14
+00:01:23,694 --> 00:01:31,835
+Therefore, women who are already in tech positions must act as mentors and endorse other women in these fields.
+
+15
+00:01:31,835 --> 00:01:38,448
+They can play a huge role for young women by giving them encouragement, support, and guidance.
+
+16
+00:01:38,448 --> 00:01:45,124
+These women can help attract and retain more women and, therefore, create a level-playing field.
+
+17
+00:01:45,124 --> 00:01:49,803
+However, it is not just the women in tech who must be vocal.
+
+18
+00:01:49,803 --> 00:01:57,695
+Men working in the tech industry have a responsibility to listen to women and foster a comfortable work culture.
+
+19
+00:01:57,695 --> 00:02:06,055
+The leaders in the industry have the power to create new opportunities and promote the inclusion of women to close this gender gap.
+
+20
+00:02:06,055 --> 00:02:15,538
+There must be a systematic approach from schools to workplaces, including the motivation of young women to study STEM and computer science.
+
+21
+00:02:15,538 --> 00:02:22,401
+Women must provide support and mentorship, and men must listen to and encourage women.
+
+22
+00:02:22,401 --> 00:02:28,827
+If we continue to empower women in the tech sector, it will be good for everyone.

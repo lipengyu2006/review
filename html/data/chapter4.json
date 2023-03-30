@@ -1,0 +1,274 @@
+{
+  "playlist": [
+    {
+      "title": "Social Media",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track01.mp3",
+      "duration": "02:23",
+      "subtitle": "./data/eew4/subtitle/4track01.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "Enhanced Weathering",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track02.mp3",
+      "duration": "02:30",
+      "subtitle": "./data/eew4/subtitle/4track02.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "Le Chambon-sur-Lignon",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track03.mp3",
+      "duration": "02:06",
+      "subtitle": "./data/eew4/subtitle/4track03.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "Women in Tech",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track04.mp3",
+      "duration": "02:31",
+      "subtitle": "./data/eew4/subtitle/4track04.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "Impressionism",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track05.mp3",
+      "duration": "02:33",
+      "subtitle": "./data/eew4/subtitle/4track05.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "Anzac Day",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track06.mp3",
+      "duration": "02:31",
+      "subtitle": "./data/eew4/subtitle/4track06.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "Endangered Languages",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track07.mp3",
+      "duration": "02:18",
+      "subtitle": "./data/eew4/subtitle/4track07.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "The Ketogenic Diet",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track08.mp3",
+      "duration": "02:26",
+      "subtitle": "./data/eew4/subtitle/4track08.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "The Bachelor's Lesson",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track09.mp3",
+      "duration": "02:13",
+      "subtitle": "./data/eew4/subtitle/4track09.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "The Corrupt Administrator",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track10.mp3",
+      "duration": "02:12",
+      "subtitle": "./data/eew4/subtitle/4track10.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "A Famous Accident",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track11.mp3",
+      "duration": "01:56",
+      "subtitle": "./data/eew4/subtitle/4track11.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "Beethoven's Gift",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track12.mp3",
+      "duration": "02:13",
+      "subtitle": "./data/eew4/subtitle/4track12.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "A Day Without Sight",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track13.mp3",
+      "duration": "02:09",
+      "subtitle": "./data/eew4/subtitle/4track13.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "The History of Parachutes",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track14.mp3",
+      "duration": "02:24",
+      "subtitle": "./data/eew4/subtitle/4track14.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "Microchips",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track15.mp3",
+      "duration": "01:57",
+      "subtitle": "./data/eew4/subtitle/4track15.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "The New Bioco",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track16.mp3",
+      "duration": "02:30",
+      "subtitle": "./data/eew4/subtitle/4track16.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "The resourceful Landlord",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track17.mp3",
+      "duration": "01:59",
+      "subtitle": "./data/eew4/subtitle/4track17.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "The First Organ Transplant",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track18.mp3",
+      "duration": "02:23",
+      "subtitle": "./data/eew4/subtitle/4track18.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "The North Star",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track19.mp3",
+      "duration": "02:04",
+      "subtitle": "./data/eew4/subtitle/4track19.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "Dressed to Excess",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track20.mp3",
+      "duration": "02:28",
+      "subtitle": "./data/eew4/subtitle/4track20.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "Amazing Komodo Dragons",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track21.mp3",
+      "duration": "02:06",
+      "subtitle": "./data/eew4/subtitle/4track21.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "Greek Magical Papyri",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track22.mp3",
+      "duration": "02:04",
+      "subtitle": "./data/eew4/subtitle/4track22.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "Dangerous Bites",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track23.mp3",
+      "duration": "02:06",
+      "subtitle": "./data/eew4/subtitle/4track23.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "The Lydian King",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track24.mp3",
+      "duration": "02:23",
+      "subtitle": "./data/eew4/subtitle/4track24.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "The End of Smallpox",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track25.mp3",
+      "duration": "02:15",
+      "subtitle": "./data/eew4/subtitle/4track25.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "Epidemic in Zimbabwe",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track26.mp3",
+      "duration": "02:27",
+      "subtitle": "./data/eew4/subtitle/4track26.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "Seizures Then and Now",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track27.mp3",
+      "duration": "02:10",
+      "subtitle": "./data/eew4/subtitle/4track27.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "The Ice House",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track28.mp3",
+      "duration": "02:24",
+      "subtitle": "./data/eew4/subtitle/4track28.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "Preparing for Future",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track29.mp3",
+      "duration": "02:15",
+      "subtitle": "./data/eew4/subtitle/4track29.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    },
+    {
+      "title": "Hundred Plays",
+      "artist": "Compass Publishing",
+      "album": "4000 EEW 2nd 3",
+      "url": "./data/eew4/audio/4track30.mp3",
+      "duration": "02:22",
+      "subtitle": "./data/eew4/subtitle/4track30.srt",
+      "artwork": "./data/eew4/chapter4.jpg"
+    }
+  ]
+}

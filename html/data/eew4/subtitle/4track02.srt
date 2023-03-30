@@ -1,0 +1,117 @@
+1
+00:00:02,600 --> 00:00:05,460
+Enhanced Weathering
+
+2
+00:00:05,460 --> 00:00:12,192
+Air pollution is not only a contributor to global warming but also to poor air quality.
+
+3
+00:00:12,192 --> 00:00:15,232
+It can have negative effects on human health.
+
+4
+00:00:15,232 --> 00:00:23,080
+Carbon dioxide is the leading pollutant,
+with billions of metric tons emitted annually by the burning of fossil fuels.
+
+5
+00:00:23,080 --> 00:00:27,982
+Burning less fossil fuels is the obvious way to reduce carbon dioxide.
+
+6
+00:00:27,982 --> 00:00:35,303
+Unfortunately, a tremendous number of people rely on fossil fuels for heating, electricity, and transport.
+
+7
+00:00:35,303 --> 00:00:41,135
+This has prompted scientists to look for different approaches to reducing carbon dioxide.
+
+8
+00:00:41,135 --> 00:00:48,332
+Weathering is when chemical compounds in the atmosphere react with chemical compounds on the planet's surface.
+
+9
+00:00:48,332 --> 00:00:52,489
+The weathering of rocks refers to the chemical breakdown of rocks.
+
+10
+00:00:52,489 --> 00:00:58,755
+This occurs when rain, which contains carbon from the atmosphere, comes in contact with rocks.
+
+11
+00:00:58,755 --> 00:01:01,919
+The carbon is captured and embedded in the rocks.
+
+12
+00:01:01,919 --> 00:01:08,155
+This is a natural process and can substantially remove carbon dioxide from the atmosphere.
+
+13
+00:01:08,155 --> 00:01:12,157
+However, this process is extremely slow.
+
+14
+00:01:12,157 --> 00:01:16,220
+Scientists have been studying ways to integrate this process.
+
+15
+00:01:16,220 --> 00:01:19,912
+They have discovered a technique to speed up weathering.
+
+16
+00:01:19,912 --> 00:01:22,921
+They call this enhanced weathering.
+
+17
+00:01:22,921 --> 00:01:27,761
+Certain types of rock, such as olivine, are crushed into a fine powder.
+
+18
+00:01:27,761 --> 00:01:31,886
+The powder is spread over a large land surface to be rained on.
+
+19
+00:01:31,886 --> 00:01:38,773
+This process decreases the time of natural weathering by maximizing the rocks' exposure to carbon.
+
+20
+00:01:38,773 --> 00:01:41,162
+There are skeptics, however.
+
+21
+00:01:41,162 --> 00:01:45,288
+Some people are uncertain about the effects of enhanced weathering.
+
+22
+00:01:45,288 --> 00:01:48,142
+Some even object to this approach.
+
+23
+00:01:48,142 --> 00:01:54,936
+Rocks such as olivine may contain toxic substances that can contribute to polluting the planet.
+
+24
+00:01:54,936 --> 00:01:58,410
+Also, grinding rocks produces dust.
+
+25
+00:01:58,410 --> 00:02:01,419
+The dust can be harmful to human health.
+
+26
+00:02:01,419 --> 00:02:08,213
+Moreover, the process of crushing and transporting rock may cause additional carbon emissions.
+
+27
+00:02:08,213 --> 00:02:14,572
+Although more data needs to be collected,
+scientists have not completely rejected enhanced weathering.
+
+28
+00:02:14,572 --> 00:02:20,001
+They are hopeful that it will enable the safe removal of atmospheric carbon dioxide.
+
+29
+00:02:20,001 --> 00:02:27,726
+Scientists are working together to help improve air quality, combat global warming, and heal our planet.
