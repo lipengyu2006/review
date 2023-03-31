@@ -21,7 +21,12 @@
       "url": "./data/eew3/audio/3track02.mp3",
       "duration": "02:05",
       "subtitle": "./data/eew3/subtitle/3track02.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "02",
+        "name": "02.json"
+      }
     },
     {
       "title": "The Shepherd and the Wild Sheep",
@@ -30,7 +35,12 @@
       "url": "./data/eew3/audio/3track03.mp3",
       "duration": "01:59",
       "subtitle": "./data/eew3/subtitle/3track03.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "03",
+        "name": "03.json"
+      }
     },
     {
       "title": "The Boy and His Sled",
@@ -39,7 +49,12 @@
       "url": "./data/eew3/audio/3track04.mp3",
       "duration": "01:53",
       "subtitle": "./data/eew3/subtitle/3track04.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "04",
+        "name": "04.json"
+      }
     },
     {
       "title": "Trick or Treat!",
@@ -48,7 +63,12 @@
       "url": "./data/eew3/audio/3track05.mp3",
       "duration": "02:03",
       "subtitle": "./data/eew3/subtitle/3track05.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "05",
+        "name": "05.json"
+      }
     },
     {
       "title": "The Senator and the Worm",

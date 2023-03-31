@@ -67,6 +67,3 @@ img {
 .media-content p:first-child {
   margin-bottom: 7px;
 }
-.media-content p:not(:first-child):first-letter {
-  color: #00a0ff;
-}
