@@ -10,11 +10,47 @@
       "artwork": "./data/ted/ted.jpg"
     },
     {
+      "title": "Why is cotton in everything?",
+      "artist": "Michael R. Stiff",
+      "album": "TED-ED",
+      "url": "./data/ted/audio/cotton.mp3",
+      "duration": "04:53",
+      "subtitle": "./data/ted/subtitle/cotton.srt",
+      "artwork": "./data/ted/ted.jpg"
+    },
+    {
+      "title": "How menstruation works?",
+      "artist": "Emma Bryce",
+      "album": "TED-ED",
+      "url": "./data/ted/audio/menstruation.mp3",
+      "duration": "04:11",
+      "subtitle": "./data/ted/subtitle/menstruation.srt",
+      "artwork": "./data/ted/ted.jpg"
+    },
+    {
+      "title": "Why do we feel nostalgia?",
+      "artist": "Clay Routledge",
+      "album": "TED-ED",
+      "url": "./data/ted/audio/nostalgia.mp3",
+      "duration": "04:11",
+      "subtitle": "./data/ted/subtitle/nostalgia.srt",
+      "artwork": "./data/ted/ted.jpg"
+    },
+    {
+      "title": "The philosophy of Stoicism",
+      "artist": "Massimo Pigliucci",
+      "album": "TED-ED",
+      "url": "./data/ted/audio/philosophy_stoicism.mp3",
+      "duration": "05:30",
+      "subtitle": "./data/ted/subtitle/philosophy_stoicism.srt",
+      "artwork": "./data/ted/ted.jpg"
+    },
+    {
       "title": "Does stress cause pimples?",
       "artist": "Claudia Aguirre",
       "album": "TED-ED",
       "url": "./data/ted/audio/stress_pimples.mp3",
-      "duration": "04:42",
+      "duration": "03:54",
       "subtitle": "./data/ted/subtitle/stress_pimples.srt",
       "artwork": "./data/ted/ted.jpg"
     }

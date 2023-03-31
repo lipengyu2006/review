@@ -15,15 +15,12 @@ img {
   height: 90px;
   width: 135px;
 }
-.image {
-  display: block;
-  position: relative;
-}
 .image img {
   vertical-align: top;
   display: block;
-  height: auto;
-  width: 100%;
+  height: 90px;
+  width: 135px;
+  object-fit: cover;
 }
 .media + .media {
   border-top: 1px solid rgba(219, 219, 219, .5);
@@ -34,7 +31,6 @@ img {
   align-items: flex-start;
   display: flex;
   text-align: inherit;
-  font-family: 'Open Sans', sans-serif;
 }
 .media .content {
   padding-bottom: .75rem
@@ -42,22 +38,14 @@ img {
 .media .content:not(:last-child) {
   margin-bottom: .75rem
 }
-.media-left,.media-right {
-  flex-basis: auto;
-  flex-grow: 0;
-  flex-shrink: 0
-}
 .media-left {
+  display: flex;
+  width: 135px;
   margin-right: 1rem
 }
-.media-right {
-  margin-left: 1rem
-}
 .media-content {
-  flex-basis: auto;
-  flex-grow: 1;
-  flex-shrink: 1;
-  text-align: inherit;
+  display: flex;
+  flex: 1;
   overflow-x: auto;
 }
 
