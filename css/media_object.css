@@ -36,6 +36,9 @@ img {
   text-align: inherit;
   font-family: 'Open Sans', sans-serif;
 }
+.media .content {
+  padding-bottom: .75rem
+}
 .media .content:not(:last-child) {
   margin-bottom: .75rem
 }
