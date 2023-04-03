@@ -1,0 +1,30 @@
+<div class="en-story">
+  <p>Once there was a
+    <strong class="idiom-tip" idx="17">shepherd</strong>. Every night he counted and gathered his sheep. He was sure never to
+    <strong class="idiom-tip" idx="13">overlook</strong>any of them. One night, he saw some wild sheep had joined his herd. He hoped to
+    <strong class="idiom-tip" idx="0">acquire</strong>the
+    <strong class="idiom-tip" idx="11">newcomers</strong>.</p>
+  <p>It snowed that night. In the morning, the shepherd couldn’t take his sheep out of his
+    <strong class="idiom-tip" idx="9">lodge</strong>. Instead, he had to feed them inside. He gave a small amount of
+    <strong class="idiom-tip" idx="19">wheat</strong>to his own sheep. But he gave more of the food to the wild sheep. He thought the extra wheat would
+    <strong class="idiom-tip" idx="4">discourage</strong>them from leaving.</p>
+  <p>It snowed for several days. During that time, the shepherd’s sheep ate very little. The wild sheep, however, ate very well.</p>
+  <p>At last, the snow melted, and they
+    <strong class="idiom-tip" idx="18">ventured</strong>outdoors. As soon as he opened the door of his
+    <strong class="idiom-tip" idx="7">hut</strong>, the wild sheep started to run away.</p>
+  <p>“Wait! This is how you
+    <strong class="idiom-tip" idx="14">repay</strong>me? After I treated you so kindly, why do you run away?” the shepherd asked. His voice was full of
+    <strong class="idiom-tip" idx="6">hatred</strong>.</p>
+  <p>The wild sheep stopped and turned toward the shepherd.</p>
+  <p>“We’re leaving because you fed us better than your own sheep,” one of the wild sheep replied. “You tried to
+    <strong class="idiom-tip" idx="3">deceive</strong>us with your
+    <strong class="idiom-tip" idx="15">ridiculous</strong>plan. Yesterday you treated us kindly, but tomorrow you might be different. If more wild sheep joined your herd, you would treat us as
+    <strong class="idiom-tip" idx="8">inferior</strong>sheep.”</p>
+  <p>As the wild sheep ran away, the shepherd understood his
+    <strong class="idiom-tip" idx="12">offense</strong>. He knew this
+    <strong class="idiom-tip" idx="1">awkward</strong>situation was his own fault. He had not been a
+    <strong class="idiom-tip" idx="16">satisfactory</strong>
+    <strong class="idiom-tip" idx="2">caretaker</strong>. He was a
+    <strong class="idiom-tip" idx="5">fake</strong>friend to the wild sheep. Because of this, he had
+    <strong class="idiom-tip" idx="10">neglected</strong>his own herd.</p>
+</div>

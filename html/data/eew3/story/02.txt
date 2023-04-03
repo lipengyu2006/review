@@ -1,0 +1,30 @@
+<div class="en-story">
+  <p>At Christmas, children wait for St. Nicholas to bring gifts down the
+    <strong class="idiom-tip" idx="4">chimney</strong>. But it’s not just a story. St. Nicholas was a real person.</p>
+  <p>A long time ago, a man named Marcus
+    <strong class="idiom-tip" idx="13">occupied</strong>a house with his family. He was not
+    <strong class="idiom-tip" idx="12">modest</strong>. He always told everybody he was the strongest man in the
+    <strong class="idiom-tip" idx="17">province</strong>.</p>
+  <p>He worked hard, but he could barely
+    <strong class="idiom-tip" idx="19">sustain</strong>his family. He wanted to save money and
+    <strong class="idiom-tip" idx="16">prosper</strong>. Still, he could never earn a
+    <strong class="idiom-tip" idx="14">penny</strong>more than he needed.</p>
+  <p>One day, Marcus made an agreement with a blacksmith. The
+    <strong class="idiom-tip" idx="2">blacksmith</strong>had a lot of work to do. But he couldn’t do it all by himself. Marcus wanted to help him
+    <strong class="idiom-tip" idx="8">forge</strong>
+    <strong class="idiom-tip" idx="10">iron</strong>. The blacksmith agreed to
+    <strong class="idiom-tip" idx="5">compensate</strong>him with a lot of money.</p>
+  <p>In the same town, there was a man named Nicholas. At an early age, Nicholas started
+    <strong class="idiom-tip" idx="15">preaching</strong>. But he also believed that he should be
+    <strong class="idiom-tip" idx="9">humble</strong>and
+    <strong class="idiom-tip" idx="3">charitable</strong>. He learned that helping people gave him even more
+    <strong class="idiom-tip" idx="18">satisfaction</strong>than preaching.</p>
+  <p>One day, Nicholas
+    <strong class="idiom-tip" idx="6">encountered</strong>Marcus. Marcus told Nicholas about his agreement with the blacksmith. “ I worked hard for him,” Marcus said, “ but a problem
+    <strong class="idiom-tip" idx="0">arose</strong>. Even though I worked for him, he didn’t pay me.”</p>
+  <p>Nicholas wanted to help Marcus. That night, he went back to Marcus’s house. He brought a bag of gold. It
+    <strong class="idiom-tip" idx="7">exceeded</strong>the amount that Marcus needed. Nicholas climbed up a
+    <strong class="idiom-tip" idx="11">ladder</strong>and dropped the bag of gold down the chimney. Marcus thanked his
+    <strong class="idiom-tip" idx="1">benefactor</strong>.</p>
+  <p>Soon, people found out about Nicholas’s gift. He became well known and loved. Even today, people still give secret gifts to children. And we say they are from St. Nicholas.</p>
+</div>

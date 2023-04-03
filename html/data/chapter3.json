@@ -26,6 +26,10 @@
         "path": "./data/eew3/word/",
         "dir": "02",
         "name": "02.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "02.txt"
       }
     },
     {
@@ -40,6 +44,10 @@
         "path": "./data/eew3/word/",
         "dir": "03",
         "name": "03.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "03.txt"
       }
     },
     {
@@ -54,6 +62,10 @@
         "path": "./data/eew3/word/",
         "dir": "04",
         "name": "04.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "04.txt"
       }
     },
     {
@@ -68,6 +80,10 @@
         "path": "./data/eew3/word/",
         "dir": "05",
         "name": "05.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "05.txt"
       }
     },
     {
@@ -77,7 +93,16 @@
       "url": "./data/eew3/audio/3track06.mp3",
       "duration": "02:04",
       "subtitle": "./data/eew3/subtitle/3track06.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "06",
+        "name": "06.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "06.txt"
+      }
     },
     {
       "title": "Patsy Ann",
@@ -86,7 +111,16 @@
       "url": "./data/eew3/audio/3track07.mp3",
       "duration": "01:56",
       "subtitle": "./data/eew3/subtitle/3track07.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "07",
+        "name": "07.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "07.txt"
+      }
     },
     {
       "title": "The Anniversary Gift",
@@ -95,7 +129,16 @@
       "url": "./data/eew3/audio/3track08.mp3",
       "duration": "02:04",
       "subtitle": "./data/eew3/subtitle/3track08.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "08",
+        "name": "08.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "08.txt"
+      }
     },
     {
       "title": "Dalton vs. the Bully",
@@ -104,7 +147,16 @@
       "url": "./data/eew3/audio/3track09.mp3",
       "duration": "02:07",
       "subtitle": "./data/eew3/subtitle/3track09.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "09",
+        "name": "09.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "09.txt"
+      }
     },
     {
       "title": "Anna the Babysitter",
@@ -113,7 +165,16 @@
       "url": "./data/eew3/audio/3track10.mp3",
       "duration": "02:08",
       "subtitle": "./data/eew3/subtitle/3track10.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "10",
+        "name": "10.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "10.txt"
+      }
     },
     {
       "title": "July 28, 2017",
@@ -179,7 +240,7 @@
       "artwork": "./data/eew3/chapter3.jpg"
     },
     {
-      "title": "The Knight’s Plan",
+      "title": "The Knight's Plan",
       "artist": "Compass Publishing",
       "album": "4000 EEW 2nd 3",
       "url": "./data/eew3/audio/3track18.mp3",

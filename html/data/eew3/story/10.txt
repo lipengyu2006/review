@@ -1,0 +1,28 @@
+<div class="en-story">
+  <p>Since her parents got a
+    <strong class="idiom-tip" idx="5">divorce</strong>, Anna has had to help her mother. In her mother’s
+    <strong class="idiom-tip" idx="0">absence</strong>, Anna takes care of Grace, the baby. At first, Anna thought it was an easy job.</p>
+  <p>One afternoon, Anna played with Grace. She meowed like a cat and Grace imitated her. In fact, Grace
+    <strong class="idiom-tip" idx="13">reproduced</strong>every sound that Anna made. She took her sister outside. She put Grace in the
+    <strong class="idiom-tip" idx="18">wagon</strong>, but there was nowhere for them to go. So they went back inside.</p>
+  <p>Anna put the
+    <strong class="idiom-tip" idx="7">infant</strong>on the floor and went into her room. But when she came back, Grace had
+    <strong class="idiom-tip" idx="17">vanished</strong>! Anna looked everywhere, but she could not find her sister. Maybe the baby had been
+    <strong class="idiom-tip" idx="8">kidnapped</strong>! “ Where are you?” Anna called
+    <strong class="idiom-tip" idx="1">aloud</strong>.</p>
+  <p>The situation was becoming
+    <strong class="idiom-tip" idx="16">urgent</strong>. She wanted to call her mom, but she didn’t want her to think Anna couldn’t do the job. Anna sat down. What was she going to do?</p>
+  <p>But then, Anna heard something. It was coming from her room. “ Grace?” She got down on her knees and looked under the bed. She could see Grace’s
+    <strong class="idiom-tip" idx="2">bald</strong>head. Grace had followed Anna into her room and
+    <strong class="idiom-tip" idx="4">crept</strong>under the bed.</p>
+  <p>“ What a
+    <strong class="idiom-tip" idx="12">relief</strong>!” Anna cried.</p>
+  <p>She picked up her sister and
+    <strong class="idiom-tip" idx="11">patted</strong>her on the head. Her head was soft and had no
+    <strong class="idiom-tip" idx="19">wrinkles</strong>. Grace was
+    <strong class="idiom-tip" idx="15">sucking</strong>on her thumb and looked tired. So, Anna wrapped her in a
+    <strong class="idiom-tip" idx="3">blanket</strong>and sang
+    <strong class="idiom-tip" idx="14">rhymes</strong>for her. Then she put Grace in bed for a
+    <strong class="idiom-tip" idx="9">nap</strong>.</p>
+  <p>After that afternoon, Anna knew that taking care of Grace was not an easy job. It takes a lot of work to take care of a baby!</p>
+</div>

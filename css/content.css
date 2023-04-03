@@ -71,8 +71,23 @@
 }
 
 
-#essay, #playlist, #sortlist {
+#essay, #playlist, #sortlist, .en-story {
 	margin: 8px;
+}
+
+.en-story .idiom-tip {
+  color: #1DA362;
+}
+.en-story p {
+  color: #2b2b2b;
+  padding: 5px;
+  margin: 10px 0;
+}
+.en-story p:nth-child(odd) {
+  background-color: #F7F7F7;
+}
+.en-story p::first-letter {
+  margin-left: 1em;
 }
 
 .lines {
@@ -139,12 +154,18 @@
   .media-content p:not(:first-child) {
     font-size: 14px;
   }
+  .en-story p {
+    font-size: 14px;
+  }
 }
 @media only screen and (min-width:960px) {
   #essay .line {
     font-size: 16px;
   }
   .media-content p:not(:first-child) {
+    font-size: 16px;
+  }
+  .en-story p {
     font-size: 16px;
   }
 }

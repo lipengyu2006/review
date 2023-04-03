@@ -1,0 +1,35 @@
+<div class="en-story">
+  <p>A rich
+    <strong class="idiom-tip" idx="13">senator</strong>lived in a big house. He had more money than anyone in his
+    <strong class="idiom-tip" idx="7">district</strong>. One day, he was sitting on a chair listening to a radio
+    <strong class="idiom-tip" idx="1">broadcast</strong>. As he listened to the news
+    <strong class="idiom-tip" idx="2">bulletin</strong>, a
+    <strong class="idiom-tip" idx="19">worm</strong>crawled from
+    <strong class="idiom-tip" idx="18">underneath</strong>the chair and onto his head.</p>
+  <p>His cook was in the kitchen
+    <strong class="idiom-tip" idx="15">stirring</strong>some spaghetti sauce. Suddenly, a cry from the senator
+    <strong class="idiom-tip" idx="0">alerted</strong>him. He ran to the
+    <strong class="idiom-tip" idx="12">rear</strong>of the house where the senator was sitting.</p>
+  <p>The cook looked and saw the worm. He tried to
+    <strong class="idiom-tip" idx="6">console</strong>the senator. “ I’ll take it off right away,” he said.</p>
+  <p>“ No!” shouted the senator. “ I want you to kill it.”</p>
+  <p>“ But it’s only a worm,” the cook said. “ Why should we
+    <strong class="idiom-tip" idx="10">execute</strong>it? It hasn’t committed a crime.”</p>
+  <p>The senator could not
+    <strong class="idiom-tip" idx="9">endure</strong>the worm on his head. “ Hurry!” he shouted.</p>
+  <p>The cook looked through several
+    <strong class="idiom-tip" idx="8">drawers</strong>, but found nothing. Then he ran to the
+    <strong class="idiom-tip" idx="5">closet</strong>and took out a pipe. He returned to the senator and lifted the pipe over his head. He knew he couldn’t just
+    <strong class="idiom-tip" idx="16">tap</strong>the worm. He was going to hit it hard. He
+    <strong class="idiom-tip" idx="11">grasped</strong>the pipe tightly.</p>
+  <p>“ What are you waiting for?” said the senator. “ Kill it!”</p>
+  <p>The cook swung the pipe at the senator’s head.</p>
+  <p>“ Oh, no,” the worm said. “ He’s going to
+    <strong class="idiom-tip" idx="4">chop</strong>me in half.” It jumped off the senator’s head.</p>
+  <p>There was a
+    <strong class="idiom-tip" idx="17">tremendous</strong>noise. “ Owww!” cried the senator.</p>
+  <p>A
+    <strong class="idiom-tip" idx="3">bump</strong>rose upon his
+    <strong class="idiom-tip" idx="14">skull</strong>. Meanwhile, the worm crawled outside.</p>
+  <p>“ That was close,” said the worm. “ Instead of being nice, he wanted to hurt me. Now, that man has a big bump on his head.”</p>
+</div>

@@ -1,0 +1,29 @@
+<div class="en-story">
+  <p>A long time ago in Alaska, a dog named Patsy Ann watched the
+    <strong class="idiom-tip" idx="10">horizon</strong>. Every day, she waited by the bay for ships returning from an
+    <strong class="idiom-tip" idx="9">expedition</strong>.</p>
+  <p>Patsy Ann was a
+    <strong class="idiom-tip" idx="4">brilliant</strong>dog, and she was very unique. She was
+    <strong class="idiom-tip" idx="7">deaf</strong>. She couldn’t
+    <strong class="idiom-tip" idx="2">bark</strong>, either. But she used all of her other
+    <strong class="idiom-tip" idx="18">senses</strong>to know when a ship was near.</p>
+  <p>Patsy Ann lived on the streets. Her owners did not want her because she could not hear. So they
+    <strong class="idiom-tip" idx="0">abandoned</strong>her. She found
+    <strong class="idiom-tip" idx="15">refuge</strong>in a fancy hotel. Guests
+    <strong class="idiom-tip" idx="17">rubbed</strong>her back and scratched her
+    <strong class="idiom-tip" idx="5">chin</strong>. Many people gave her food. She became quite
+    <strong class="idiom-tip" idx="14">overweight</strong>.</p>
+  <p>She became very famous. Visitors to Alaska were
+    <strong class="idiom-tip" idx="8">enthusiastic</strong>about meeting her. They brought presents for her. They liked seeing her and the feeling was
+    <strong class="idiom-tip" idx="13">mutual</strong>. The
+    <strong class="idiom-tip" idx="12">mayor</strong>said Patsy Ann should be called the town’s greeter*.</p>
+  <p>The people in town loved Patsy Ann, too, even though she lived on the streets. They were willing to fight to keep her. A new law made all dogs wear a collar and get shots. The mayor received many
+    <strong class="idiom-tip" idx="6">complaints</strong>. People wanted Patsy Ann to be able to stay. One
+    <strong class="idiom-tip" idx="1">ambitious</strong>sailor got people to help. Together, they paid for Patsy Ann to go to the
+    <strong class="idiom-tip" idx="19">veterinarian</strong>. She got her shots and collar. She could stay.</p>
+  <p>When Patsy Ann died, everyone missed the town’s
+    <strong class="idiom-tip" idx="11">loyal</strong>greeter. So the mayor hired someone to make a statue of Patsy Ann. He
+    <strong class="idiom-tip" idx="16">restored</strong>the town’s greeter. Now, she sits at the dock forever, waiting for ships to come home.</p>
+  <p>
+    <em>*greeter - a person whose job is to say hello to new people.</em></p>
+</div>

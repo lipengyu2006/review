@@ -1,0 +1,28 @@
+<div class="en-story">
+  <p>Mike was the smallest child in school. Another boy, Joe, always
+    <strong class="idiom-tip" idx="18">teased</strong>Mike. Joe had a large
+    <strong class="idiom-tip" idx="15">scar</strong>on his face from fighting other children. One day, Joe
+    <strong class="idiom-tip" idx="11">offended</strong>Mike when he made fun of Mike’s
+    <strong class="idiom-tip" idx="19">valentine</strong>, Jane. Mike felt
+    <strong class="idiom-tip" idx="5">disgrace</strong>, but he didn’t know how to make Joe stop.</p>
+  <p>That day, Mike walked home down an
+    <strong class="idiom-tip" idx="0">alley</strong>. He found a
+    <strong class="idiom-tip" idx="2">bunch</strong>of wood boards next to a
+    <strong class="idiom-tip" idx="14">pine</strong>tree. He thought to himself, “ I could build a
+    <strong class="idiom-tip" idx="4">decent</strong>
+    <strong class="idiom-tip" idx="17">sled</strong>from this. If I let Joe use it, he will be nicer to me and Jane.” He took the wood home.</p>
+  <p>Mike got an
+    <strong class="idiom-tip" idx="1">ax</strong>and cut the wood. He used nails to make sure that the pieces were not
+    <strong class="idiom-tip" idx="10">loose</strong>. As he worked, he bumped his
+    <strong class="idiom-tip" idx="6">elbow</strong>on the boards. The painful
+    <strong class="idiom-tip" idx="16">sensation</strong>made him want to cry. It was a hard
+    <strong class="idiom-tip" idx="3">chore</strong>, but he
+    <strong class="idiom-tip" idx="13">persisted</strong>. He worked
+    <strong class="idiom-tip" idx="12">overnight</strong>. By morning, the sled was finished.</p>
+  <p>Mike called Joe on the telephone. He said, “ Hi Joe. Come over to my house right away.”</p>
+  <p>Joe didn’t know why Mike wanted him to come over. When Joe arrived, Mike told him, “Joe, it
+    <strong class="idiom-tip" idx="8">irritated</strong>me the other day when you said mean things about my card to Jane. You weren’t
+    <strong class="idiom-tip" idx="9">kidding</strong>when you said those mean things. But I’m not like you. I just built this sled, and I’ll let you ride it with me if you are nice.”</p>
+  <p>They became friends, and Joe was
+    <strong class="idiom-tip" idx="7">grateful</strong>that Mike was so nice to him. He learned that it is more fun to be nice than to be mean.</p>
+</div>

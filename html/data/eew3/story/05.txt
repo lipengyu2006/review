@@ -1,0 +1,24 @@
+<div class="en-story">
+  <p>Many different cultures have had traditions about the dead. People in places like Ireland, China, Egypt and Mexico believed that souls needed food. They thought the food
+    <strong class="idiom-tip" idx="8">nourished</strong>them on their journey from
+    <strong class="idiom-tip" idx="1">cemeteries</strong>to heaven. People had to put out good things for souls to eat. However, if the food rotted or
+    <strong class="idiom-tip" idx="16">spoiled</strong>, the soul got mad. The
+    <strong class="idiom-tip" idx="19">wicked</strong>soul might
+    <strong class="idiom-tip" idx="2">curse</strong>the family and make them
+    <strong class="idiom-tip" idx="17">starve</strong>during the winter.</p>
+  <p>In other places, people begged for food on a holiday that remembers the souls of dead saints. People wore
+    <strong class="idiom-tip" idx="3">disguises</strong>with
+    <strong class="idiom-tip" idx="6">hoods</strong>that covered their faces. If they did not get food, they played a trick on the home. For this reason, the activity is known as “trick-or- treating.”
+    <strong class="idiom-tip" idx="14">Shortly</strong>after people first began trick-or-treating, parents started sending their children to beg on that day. Housewives gave the children food if they performed a song or a dance. When people moved to America from all over the world, they brought this tradition with them.
+    <strong class="idiom-tip" idx="7">Inhabitants</strong>of villages started trick-or-treating in the early 1900s. In 1939 a children’s
+    <strong class="idiom-tip" idx="10">publication</strong>
+    <strong class="idiom-tip" idx="0">acquainted</strong>the whole country with the tradition. It became very popular.</p>
+  <p>Today, trick-or-treaters are not begging for food, and they are not
+    <strong class="idiom-tip" idx="13">scared</strong>of souls. They just enjoy the
+    <strong class="idiom-tip" idx="18">thrill</strong>of dressing up like creatures and getting candy. Ghosts and
+    <strong class="idiom-tip" idx="15">skeletons</strong>are favorite costumes. But some children wear
+    <strong class="idiom-tip" idx="4">fancy</strong>disguises, like
+    <strong class="idiom-tip" idx="9">pirates</strong>. They carry
+    <strong class="idiom-tip" idx="5">flashlights</strong>instead of fires. In some places, children still perform songs or
+    <strong class="idiom-tip" idx="11">riddles</strong>to get candy. But most of the time, they just say “Trick-or-Treat!”</p>
+</div>
