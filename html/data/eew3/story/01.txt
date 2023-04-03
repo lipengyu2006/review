@@ -1,0 +1,27 @@
+<div class="en-story">
+  <p>The
+    <strong class="idiom-tip">distinct</strong> history of the famous Great Pyramids has been studied for many years by people who study
+    <strong class="idiom-tip">archaeology</strong>. The pyramids were built nearly 5,000 years ago!</p>
+  <p>According to ancient Egyptians, kings played an important
+    <strong class="idiom-tip">role</strong> in the building of the pyramids. Egyptians believed that kings were chosen by the gods and that, when a king died, he went on to become the god of the dead in the
+    <strong class="idiom-tip">afterlife</strong>. Gold, food, and clothes were buried with the body so that the spirit would have these things in the afterlife. The
+    <strong class="idiom-tip">royal</strong> family and other
+    <strong class="idiom-tip">elite</strong> individuals were also buried near the king. Pyramids were
+    <strong class="idiom-tip">founded</strong> for the
+    <strong class="idiom-tip">sole</strong> reason of helping the king by containing his things for the afterlife.</p>
+  <p>The biggest of the three pyramids is known as the Great Pyramid. This structure took over twenty years to
+    <strong class="idiom-tip">engineer</strong>. The Great Pyramid is made of over 2.5 million stone blocks; the base alone covers an area of thirteen
+    <strong class="idiom-tip">acres</strong>. (One acre is almost the size of a football field.) The visible
+    <strong class="idiom-tip">core</strong> of the Great Pyramid was originally covered by smooth casing stones. Some of the casing stones that cover the
+    <strong class="idiom-tip">surface</strong> can still be seen at the base. The stones were laid so well that there is not a single
+    <strong class="idiom-tip">gap</strong> between them.</p>
+  <p>The
+    <strong class="idiom-tip">interior</strong> of the Great Pyramid is accessible through
+    <strong class="idiom-tip">stairs</strong> that lead to a
+    <strong class="idiom-tip">channel</strong>, which then divides into a corridor going up and another going down. The rising
+    <strong class="idiom-tip">corridor</strong> goes up to the Queen's Chamber, the Grand Gallery, and the King's
+    <strong class="idiom-tip">Chamber</strong>. The other corridor goes down to an underground chamber and an escape tunnel.</p>
+  <p>The Sphinx is a big statue of a
+    <strong class="idiom-tip"> lion</strong> with a human head and can be found near the Great Pyramid. The statue is also made from big stones, and it is said to guard the pyramid.</p>
+  <p>Surrounded by history and mystery, the Great Pyramids of Egypt are a popular place to visit, and tourists come from around the world to see their
+    <strong class="idiom-tip">glory</strong>.</p></div>

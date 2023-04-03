@@ -12,6 +12,10 @@
         "path": "./data/eew3/word/",
         "dir": "01",
         "name": "01.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "01.txt"
       }
     },
     {
