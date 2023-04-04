@@ -187,7 +187,16 @@
       "url": "./data/eew3/audio/3track11.mp3",
       "duration": "02:40",
       "subtitle": "./data/eew3/subtitle/3track11.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "11",
+        "name": "11.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "11.txt"
+      }
     },
     {
       "title": "The Ice Cream Cone Explosion",
@@ -196,7 +205,16 @@
       "url": "./data/eew3/audio/3track12.mp3",
       "duration": "02:12",
       "subtitle": "./data/eew3/subtitle/3track12.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "12",
+        "name": "12.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "12.txt"
+      }
     },
     {
       "title": "Sheriff Dan",
@@ -205,7 +223,16 @@
       "url": "./data/eew3/audio/3track13.mp3",
       "duration": "02:01",
       "subtitle": "./data/eew3/subtitle/3track13.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "13",
+        "name": "13.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "13.txt"
+      }
     },
     {
       "title": "The Helpful Apprentice",
@@ -214,7 +241,16 @@
       "url": "./data/eew3/audio/3track14.mp3",
       "duration": "02:05",
       "subtitle": "./data/eew3/subtitle/3track14.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "14",
+        "name": "14.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "14.txt"
+      }
     },
     {
       "title": "Why Monkey Has No Home",
@@ -223,7 +259,16 @@
       "url": "./data/eew3/audio/3track15.mp3",
       "duration": "02:07",
       "subtitle": "./data/eew3/subtitle/3track15.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "15",
+        "name": "15.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "15.txt"
+      }
     },
     {
       "title": "Matthew Learns a Lesson",

@@ -1,0 +1,31 @@
+<div class="en-story">
+  <p>One day, John walked to his uncle’s ice cream shop. When he reached the sidewalk, he caught the
+    <strong class="idiom-tip" idx="15">scent</strong>of ice cream cones and
+    <strong class="idiom-tip" idx="0">anticipated</strong>eating some ice cream.</p>
+  <p>Sam opened the door. Uncle John had a new,
+    <strong class="idiom-tip" idx="16">steel</strong>machine. “ What is that?”</p>
+  <p>“ It’s a cone maker. I built it from a
+    <strong class="idiom-tip" idx="11">kit</strong>. You take flour from the
+    <strong class="idiom-tip" idx="1">barrel</strong>and put it in this pan,” Uncle John said. “ Then add water and sugar here and stir it so the sugar
+    <strong class="idiom-tip" idx="7">dissolves</strong>. Next, you
+    <strong class="idiom-tip" idx="9">fasten</strong>down the
+    <strong class="idiom-tip" idx="2">beam</strong>.” Uncle John wanted to look
+    <strong class="idiom-tip" idx="3">casual</strong>, but he was excited. He made a few
+    <strong class="idiom-tip" idx="17">swift</strong>motions and turned it on. There was a
+    <strong class="idiom-tip" idx="12">puff</strong>of smoke, and then cones came out the other end.</p>
+  <p>“ Is it hard to use? Sam asked.</p>
+  <p>“ On the
+    <strong class="idiom-tip" idx="5">contrary</strong>. It’s easy to use. Want to try?”</p>
+  <p>Sam washed his hands with
+    <strong class="idiom-tip" idx="4">caution</strong>. He made a
+    <strong class="idiom-tip" idx="6">deliberate</strong>attempt to keep
+    <strong class="idiom-tip" idx="10">germs</strong>out of the dough. Soon, Sam had his first cone. He smiled in
+    <strong class="idiom-tip" idx="19">triumph</strong>!</p>
+  <p>Uncle John tried to turn the machine off, but it just kept making cones. Sam and Uncle John put them on the counter, then on chairs. Before long, cones
+    <strong class="idiom-tip" idx="14">scattered</strong>all over the floor.</p>
+  <p>They tried everything to stop it, but it wouldn’t stop! “ What are we going to do?” he said.</p>
+  <p>“ Kick it!” yelled Sam. Uncle John lifted his foot and gave the machine a kick. It made a funny noise and
+    <strong class="idiom-tip" idx="8">exploded</strong>. They were both covered with dough*. Uncle John laughed when he knew Sam was OK. He
+    <strong class="idiom-tip" idx="18">tossed</strong>Sam a
+    <strong class="idiom-tip" idx="13">rag</strong>to clean his face and smiled. “ I guess we have enough cones now!”</p>
+</div>

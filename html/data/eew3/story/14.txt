@@ -1,0 +1,28 @@
+<div class="en-story">
+  <p>There was once a small restaurant. People said that the best
+    <strong class="idiom-tip" idx="5">chef</strong>in the world worked there. But the chef was a
+    <strong class="idiom-tip" idx="11">horrible</strong>person to work for. He was
+    <strong class="idiom-tip" idx="12">impolite</strong>and
+    <strong class="idiom-tip" idx="19">scolded</strong>his workers all the time.</p>
+  <p>The chef had a young
+    <strong class="idiom-tip" idx="0">apprentice</strong>. The apprentice’s first
+    <strong class="idiom-tip" idx="17">priority</strong>was to make the best food in the world. He was happy to have a good teacher, but he didn’t like the chef. The boy was a
+    <strong class="idiom-tip" idx="8">diligent</strong>worker, but the chef scolded him more than anyone else.</p>
+  <p>Then one day, the chef got great news. The
+    <strong class="idiom-tip" idx="9">emperor</strong>wanted to have dinner there that night. He was very excited. He was working very fast, and he made a mistake. He cut his hand with a knife, and it started to
+    <strong class="idiom-tip" idx="3">bleed</strong>. The apprentice gave him a
+    <strong class="idiom-tip" idx="2">bandage</strong>, but the chef still couldn’t cook.</p>
+  <p>The chef started to
+    <strong class="idiom-tip" idx="16">panic</strong>. The apprentice tried to
+    <strong class="idiom-tip" idx="1">assure</strong>him. “ Everything will be OK,” he said. But the chef was still afraid. Then they started to work together. They began to
+    <strong class="idiom-tip" idx="4">bond</strong>. The chef told the apprentice what to do. The boy cooked a great meal.</p>
+  <p>As soon as they finished, the emperor arrived. He wore a beautiful
+    <strong class="idiom-tip" idx="18">robe</strong>made of soft
+    <strong class="idiom-tip" idx="10">fibers</strong>. He also had a
+    <strong class="idiom-tip" idx="15">massive</strong>
+    <strong class="idiom-tip" idx="6">crown</strong>. Everyone in the restaurant
+    <strong class="idiom-tip" idx="13">kneeled</strong>when the emperor came in. The chef and the boy brought out his food. The emperorwas used to
+    <strong class="idiom-tip" idx="14">luxuries</strong>. Would he like the food?</p>
+  <p>The emperor loved the food. After his
+    <strong class="idiom-tip" idx="7">departure</strong>, the chef was very proud and very thankful to his new friend, the apprentice.</p>
+</div>

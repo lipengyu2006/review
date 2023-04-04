@@ -1,0 +1,32 @@
+<div class="en-story">
+  <p>Dear Diary</p>
+  <p>I am beyond excited! My
+    <strong class="idiom-tip">cousin</strong> Ella is coming all the way from England for a visit. We haven't seen each other for many years. Ella's
+    <strong class="idiom-tip">plane</strong> will land soon, and I want to be a gracious
+    <strong class="idiom-tip">host</strong> and get everything ready to
+    <strong class="idiom-tip">welcome</strong> my special
+    <strong class="idiom-tip">guest</strong> from abroad.</p>
+  <p>The warm
+    <strong class="idiom-tip">temperature</strong> in
+    <strong class="idiom-tip">July</strong> is just right. Earlier today, I opened the window to let in fresh air and looked outside. The afternoon sky was a brilliant blue, the grass was a fresh emerald green, and the
+    <strong class="idiom-tip">pink</strong> roses were in full
+    <strong class="idiom-tip">bloom</strong>. It was a stunning display of natural beauty. Ella is coming at the perfect time!</p>
+  <p>I still have to finish cleaning up and then vacuum the
+    <strong class="idiom-tip">carpet</strong>. I have already stocked the
+    <strong class="idiom-tip">refrigerator</strong> with Ella's favorite foods. Last night, I set out clean towels and arranged the guest bedroom for Ella. I will set out toiletries and other things soon.</p>
+  <p>I want to go over the activity list for Ella's visit one last time. I made sure to keep a copy of the list on my
+    <strong class="idiom-tip">desk</strong> and also on my computer. I meticulously planned the details for each day so that they are productive and packed with fun-filled activities.</p>
+  <p>I know that Ella loves history, so we will visit the
+    <strong class="idiom-tip">museum</strong> on Monday, where there is a special show about
+    <strong class="idiom-tip">architecture</strong> in
+    <strong class="idiom-tip">modern</strong> cities. We will go to the art
+    <strong class="idiom-tip">gallery</strong> on Tuesday and see the latest works of contemporary art. I also want to take Ella to the
+    <strong class="idiom-tip">upper</strong> part of town because that is where the best shopping and sales are. Then, we'll watch Hamlet, a Shakespearean play being performed at the local drama
+    <strong class="idiom-tip">theater</strong>.</p>
+  <p>I also want to take Ella on a
+    <strong class="idiom-tip">canoe</strong> ride and enjoy the many lakes around the city. We can pack a picnic
+    <strong class="idiom-tip">basket</strong>, have lunch at the lake, and enjoy the beautiful weather outside. I am really excited about it because I've never been on a canoe ride!</p>
+  <p>There are so many sightseeing opportunities and so much to show Ella, but I also want to spend time at home with Ella so we can both relax and catch up.</p>
+  <p>I'd better run because it's almost time to pick up Ella at the airport.</p>
+  <p>I can't wait to see Ella!</p>
+</div>

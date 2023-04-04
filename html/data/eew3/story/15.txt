@@ -1,0 +1,30 @@
+<div class="en-story">
+  <p>For five years, there was a
+    <strong class="idiom-tip" idx="7">famine</strong>. The farmers asked people to
+    <strong class="idiom-tip" idx="2">bless</strong>them and finally, they had a good
+    <strong class="idiom-tip" idx="8">harvest</strong>. Since there was now plenty of food, the
+    <strong class="idiom-tip" idx="12">pharaoh</strong>decided to have a party. The party was a happy
+    <strong class="idiom-tip" idx="0">affair</strong>. For five days they had a huge feast.</p>
+  <p>Monkey was very happy. Because of the famine, he was very
+    <strong class="idiom-tip" idx="17">slim</strong>. He wanted to eat a lot of food.</p>
+  <p>When he arrived at the feast, hundreds of long tables were filled with food. There were
+    <strong class="idiom-tip" idx="10">nuts</strong>, bowls of
+    <strong class="idiom-tip" idx="3">cereal</strong>, and
+    <strong class="idiom-tip" idx="13">ripe</strong>fruit. He could also smell hot
+    <strong class="idiom-tip" idx="14">roasted</strong>meat cooking on the
+    <strong class="idiom-tip" idx="18">stove</strong>.</p>
+  <p>The
+    <strong class="idiom-tip" idx="1">assembly</strong>of animals was
+    <strong class="idiom-tip" idx="9">merry</strong>. However, during the feast, Monkey thought of a
+    <strong class="idiom-tip" idx="16">scheme</strong>to
+    <strong class="idiom-tip" idx="6">exploit</strong>the pharaoh’s kindness. He decided to steal some of the food and then eat it at home.</p>
+  <p>All the animals were
+    <strong class="idiom-tip" idx="4">cheerful</strong>. They didn’t notice that monkey was hiding food. After the feast, Monkey took the food to his house and ate it. He repeated this
+    <strong class="idiom-tip" idx="15">routine</strong>every day for four days.</p>
+  <p>But on the fifth day, the pharaoh had a surprise. He was going to give all the animals a home. Monkey was very excited. But when he arrived at the pharaoh’s home, he could not get through the door. The
+    <strong class="idiom-tip" idx="5">diameter</strong>of his waist was wider than the doorway. He was too fat!</p>
+  <p>Monkey asked the pharaoh to forgive him for his
+    <strong class="idiom-tip" idx="19">theft</strong>. But the pharaoh said no. “
+    <strong class="idiom-tip" idx="11">Pardon</strong>?” asked the monkey. He didn’t understand why the pharaoh was being unkind.</p>
+  <p>“ Everybody else will have a home now, but not you. Now you know that greed gets you nothing,” explained the pharaoh.</p>
+</div>

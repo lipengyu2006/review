@@ -1,0 +1,27 @@
+<div class="en-story">
+  <p>Dan was the evil
+    <strong class="idiom-tip" idx="12">sheriff</strong>of Oceantown. Dan was as cruel as the
+    <strong class="idiom-tip" idx="3">devil</strong>. He
+    <strong class="idiom-tip" idx="19">worshipped</strong>money. Dan was a
+    <strong class="idiom-tip" idx="10">millionaire</strong>, but he paid his police officers almost nothing. The police were very
+    <strong class="idiom-tip" idx="1">bitter</strong>, but Dan didn’t care. He only cared about his money.</p>
+  <p>Every person who
+    <strong class="idiom-tip" idx="8">inhabited</strong>Oceantown disliked him. Dan
+    <strong class="idiom-tip" idx="5">enforced</strong>cruel laws. Once, Dan even put his own brother in jail for throwing a coin into a
+    <strong class="idiom-tip" idx="6">fountain</strong>! Sometimes he pointed his gun into the air and pulled the
+    <strong class="idiom-tip" idx="15">trigger</strong>. He didn’t want the
+    <strong class="idiom-tip" idx="2">bullets</strong>to hit anyone. He just wanted to scare people with the loud sound.</p>
+  <p>Finally, the people of Oceantown decided that they had to get rid of Sheriff Dan. With their understanding, the crowd sought to
+    <strong class="idiom-tip" idx="16">unify</strong>the town. They
+    <strong class="idiom-tip" idx="9">marched</strong>to Dan’s house. He was
+    <strong class="idiom-tip" idx="13">startled</strong>by the sight when he ran to the door. When he opened the door, the crowd jumped on him. They used a rope to tie him to a chair. Dan yelled, “ Get your hands off of me! I’ll put you all in jail for the rest of your lives!”</p>
+  <p>The crowd didn’t listen. They carried Dan to the
+    <strong class="idiom-tip" idx="7">harbor</strong>and put him
+    <strong class="idiom-tip" idx="0">aboard</strong>a
+    <strong class="idiom-tip" idx="17">vessel</strong>. Dan was so scared that he began to
+    <strong class="idiom-tip" idx="14">sweat</strong>. He begged, “ If you let me go, I will give you all my money!”</p>
+  <p>The crowd said back, “ Sheriff, we don’t care about your money. We know you will never change. We’re sending you on a
+    <strong class="idiom-tip" idx="18">voyage</strong>to the middle of the ocean.” The boat
+    <strong class="idiom-tip" idx="4">drifted</strong>out of the
+    <strong class="idiom-tip" idx="11">port</strong>, and Dan was never seen again. The people voted for a new sheriff who was kind and fair.</p>
+</div>
