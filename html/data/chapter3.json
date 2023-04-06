@@ -277,7 +277,16 @@
       "url": "./data/eew3/audio/3track16.mp3",
       "duration": "02:17",
       "subtitle": "./data/eew3/subtitle/3track16.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "16",
+        "name": "16.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "16.txt"
+      }
     },
     {
       "title": "The Magic Cup",
@@ -286,7 +295,16 @@
       "url": "./data/eew3/audio/3track17.mp3",
       "duration": "02:03",
       "subtitle": "./data/eew3/subtitle/3track17.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "17",
+        "name": "17.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "17.txt"
+      }
     },
     {
       "title": "The Knight's Plan",
@@ -295,7 +313,16 @@
       "url": "./data/eew3/audio/3track18.mp3",
       "duration": "02:07",
       "subtitle": "./data/eew3/subtitle/3track18.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "18",
+        "name": "18.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "18.txt"
+      }
     },
     {
       "title": "The Magic Pear Tree",
@@ -304,7 +331,16 @@
       "url": "./data/eew3/audio/3track19.mp3",
       "duration": "02:04",
       "subtitle": "./data/eew3/subtitle/3track19.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "19",
+        "name": "19.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "19.txt"
+      }
     },
     {
       "title": "Little Wolf and Mother Wolf",
@@ -313,7 +349,16 @@
       "url": "./data/eew3/audio/3track20.mp3",
       "duration": "02:09",
       "subtitle": "./data/eew3/subtitle/3track20.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "20",
+        "name": "20.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "20.txt"
+      }
     },
     {
       "title": "Genes and Cancer",

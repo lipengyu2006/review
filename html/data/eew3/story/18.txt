@@ -1,0 +1,119 @@
+<div class="en-story">
+  <p>
+    A town was fighting for their
+    <strong class="idiom-tip" idx="5">
+      independence
+    </strong>
+    from another country. Several
+    <strong class="idiom-tip" idx="9">
+      rebels
+    </strong>
+    started a
+    <strong class="idiom-tip" idx="11">
+      revolution
+    </strong>
+    . However, they were afraid of an
+    <strong class="idiom-tip" idx="6">
+      invasion
+    </strong>
+    from a lot of
+    <strong class="idiom-tip" idx="16">
+      troops
+    </strong>
+    . They didn’t have enough
+    <strong class="idiom-tip" idx="17">
+      warriors
+    </strong>
+    to stop them, so they asked a
+    <strong class="idiom-tip" idx="7">
+      knight
+    </strong>
+    for help.
+  </p>
+  <p>
+    The knight made a plan. A tall mountain was outside the town. The road
+    near the top was very narrow.
+    <strong class="idiom-tip" idx="3">
+      Cliffs
+    </strong>
+    rose on both sides of it.
+  </p>
+  <p>
+    “ We must trick the enemy. They have to follow us up the mountain,” the
+    knight explained. “ On the narrow path, only a few can attack us at one
+    time.”
+  </p>
+  <p>
+    The people agreed with the knight’s plan.
+  </p>
+  <p>
+    The knight put on his
+    <strong class="idiom-tip" idx="0">
+      armor
+    </strong>
+    , and the warriors got their
+    <strong class="idiom-tip" idx="12">
+      spears
+    </strong>
+    . When the enemy attacked, the knight and warriors acted as if they were
+    afraid. They quickly
+    <strong class="idiom-tip" idx="18">
+      withdrew
+    </strong>
+    toward the mountain.
+  </p>
+  <p>
+    The enemy troops followed them up the
+    <strong class="idiom-tip" idx="13">
+      steep
+    </strong>
+    path. Soon, the enemy became tired.
+  </p>
+  <p>
+    At the
+    <strong class="idiom-tip" idx="14">
+      summit
+    </strong>
+    , the knight and his troops stopped. The enemy was close behind them.
+    But now they were tired. Also, only a few could attack because the path
+    was narrow. The knight and the warriors fought the enemy. But there were
+    too many troops.
+  </p>
+  <p>
+    The knight was afraid. If the warriors
+    <strong class="idiom-tip" idx="19">
+      yielded
+    </strong>
+    the path to the enemy, the town would be lost.
+  </p>
+  <p>
+    A storm suddenly came over the mountain. There was strong wind and rain.
+    <strong class="idiom-tip" idx="15">
+      Thunder
+    </strong>
+    <strong class="idiom-tip" idx="2">
+      boomed
+    </strong>
+    .
+    <strong class="idiom-tip" idx="8">
+      Lightning
+    </strong>
+    struck some trees near the enemy. The trees
+    <strong class="idiom-tip" idx="1">
+      blazed
+    </strong>
+    . The
+    <strong class="idiom-tip" idx="4">
+      flames
+    </strong>
+    scared the enemy and they
+    <strong class="idiom-tip" idx="10">
+      retreated
+    </strong>
+    . They ran down the mountain, out of the town, and never returned.
+  </p>
+  <p>
+    The knight explained, “ With a little luck, a good plan beats even a big
+    army.”
+  </p>
+</div>

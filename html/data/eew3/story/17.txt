@@ -1,0 +1,109 @@
+<div class="en-story">
+  <p>
+    Paul and John were brothers. They fought all the time because they both
+    wanted to be leaders of the
+    <strong class="idiom-tip" idx="1">
+      agency
+    </strong>
+    they both worked at.
+  </p>
+  <p>
+    There was a
+    <strong class="idiom-tip" idx="16">
+      superstition
+    </strong>
+    in their town about a magic cup. People said the cup was in a volcano
+    located far away. Anyone who
+    <strong class="idiom-tip" idx="12">
+      retrieved
+    </strong>
+    the cup would have their wish come true. John and Paul both wanted to
+    find it. Then they could become the leader.
+  </p>
+  <p>
+    They both left to find the cup. Before their trip, their mother said they
+    should work together. They
+    <strong class="idiom-tip" idx="4">
+      dismissed
+    </strong>
+    that idea. Even though their trips
+    <strong class="idiom-tip" idx="10">
+      originated
+    </strong>
+    from the same house, each wanted to travel alone.
+  </p>
+  <p>
+    They were both
+    <strong class="idiom-tip" idx="8">
+      miserable
+    </strong>
+    during the trip. They had to
+    <strong class="idiom-tip" idx="9">
+      navigate
+    </strong>
+    small boats across
+    <strong class="idiom-tip" idx="13">
+      shallow
+    </strong>
+    rivers and climb difficult
+    <strong class="idiom-tip" idx="14">
+      slopes
+    </strong>
+    . Their journey
+    <strong class="idiom-tip" idx="15">
+      spanned
+    </strong>
+    many days. When they finally got close to the volcano, the ground began
+    to
+    <strong class="idiom-tip" idx="18">
+      vibrate
+    </strong>
+    and the volcano
+    <strong class="idiom-tip" idx="5">
+      erupted
+    </strong>
+    .
+    <strong class="idiom-tip" idx="2">
+      Ash
+    </strong>
+    filled the sky and
+    <strong class="idiom-tip" idx="7">
+      lava
+    </strong>
+    covered everything. John climbed to the top of a hill to keep from getting
+    burned. A few moments later, his brother went up the same hill. They were
+    <strong class="idiom-tip" idx="3">
+      confined
+    </strong>
+    to the hill until the lava cooled down.
+  </p>
+  <p>
+    They talked about the things they had seen while
+    <strong class="idiom-tip" idx="19">
+      wandering
+    </strong>
+    around the country. They felt more
+    <strong class="idiom-tip" idx="17">
+      sympathy
+    </strong>
+    and
+    <strong class="idiom-tip" idx="0">
+      affection
+    </strong>
+    for each other than ever before. They decided that
+    <strong class="idiom-tip" idx="6">
+      fate
+    </strong>
+    had brought them together.
+  </p>
+  <p>
+    The next day they left to finish the
+    <strong class="idiom-tip" idx="11">
+      remainder
+    </strong>
+    of the trip together. Everything seemed much easier. When they finally
+    found the cup, they learned that it didn’t make wishes come true. It was
+    only an ordinary cup. But the trip to reach the cup taught them to work
+    together and love each other.
+  </p>
+</div>
