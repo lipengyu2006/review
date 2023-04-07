@@ -1,0 +1,104 @@
+<div class="en-story">
+  <p>
+    Marcus lived in a small
+    <strong class="idiom-tip" idx="17">
+      suburb
+    </strong>
+    near the sea. He was a
+    <strong class="idiom-tip" idx="16">
+      stubborn
+    </strong>
+    boy, and he only cared about himself. His father worked as a
+    <strong class="idiom-tip" idx="3">
+      chemist
+    </strong>
+    for an
+    <strong class="idiom-tip" idx="10">
+      institution
+    </strong>
+    and wanted Marcus to get a job there. Instead, the boy delivered milk.
+    Each morning he took
+    <strong class="idiom-tip" idx="6">
+      dairy
+    </strong>
+    products to the
+    <strong class="idiom-tip" idx="8">
+      grocers
+    </strong>
+    .
+  </p>
+  <p>
+    One day, Marcus was
+    <strong class="idiom-tip" idx="11">
+      jogging
+    </strong>
+    down the street with a gallon of milk to give to a
+    <strong class="idiom-tip" idx="12">
+      merchant
+    </strong>
+    . He didn’t want to be late. He ran down a path beside a large
+    <strong class="idiom-tip" idx="2">
+      canal
+    </strong>
+    . A wall there kept water from coming into the town during high
+    <strong class="idiom-tip" idx="18">
+      tide
+    </strong>
+    . But Marcus saw a small hole in the wall. Marcus knew that if the wall
+    broke, it would be a
+    <strong class="idiom-tip" idx="19">
+      tragedy
+    </strong>
+    for the town.
+  </p>
+  <p>
+    At first, he
+    <strong class="idiom-tip" idx="9">
+      hesitated
+    </strong>
+    . He had to choose between helping himself and helping the town. There
+    was only one way to save the town. It seemed crazy to him, but it was the
+    only thing he could do. He
+    <strong class="idiom-tip" idx="13">
+      poked
+    </strong>
+    his finger into the hole. This didn’t fix the problem forever, but it
+    did
+    <strong class="idiom-tip" idx="14">
+      postpone
+    </strong>
+    the tragedy.
+  </p>
+  <p>
+    His finger
+    <strong class="idiom-tip" idx="0">
+      ached
+    </strong>
+    . He felt the
+    <strong class="idiom-tip" idx="4">
+      chill
+    </strong>
+    of the
+    <strong class="idiom-tip" idx="1">
+      arctic
+    </strong>
+    water as it
+    <strong class="idiom-tip" idx="15">
+      splashed
+    </strong>
+    him. There was no one else around. He knew he had to wait until the tide
+    <strong class="idiom-tip" idx="7">
+      descended
+    </strong>
+    . It was very difficult, but Marcus stayed there and saved the town.
+  </p>
+  <p>
+    Once the tide had descended, Marcus told everyone what happened. A group
+    of people went to the wall. They saw the hole and fixed it. Everyone was
+    very happy with Marcus. The local
+    <strong class="idiom-tip" idx="5">
+      congress
+    </strong>
+    even gave him a gift for saving the town. He was a hero.
+  </p>
+</div>

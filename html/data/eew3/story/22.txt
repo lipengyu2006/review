@@ -1,0 +1,103 @@
+<div class="en-story">
+  <p>
+    Ben was unhappy. He lived on a
+    <strong class="idiom-tip" idx="15">
+      ranch
+    </strong>
+    near a small town, and he didn’t have many friends. Then one day a
+    <strong class="idiom-tip" idx="11">
+      messenger
+    </strong>
+    came to the ranch. He showed the
+    <strong class="idiom-tip" idx="8">
+      headline
+    </strong>
+    in the town newspaper. The
+    <strong class="idiom-tip" idx="1">
+      circus
+    </strong>
+    was coming to the town. It even
+    <strong class="idiom-tip" idx="2">
+      coincided
+    </strong>
+    with Ben’s birthday!
+  </p>
+  <p>
+    Ben was very excited as his father
+    <strong class="idiom-tip" idx="16">
+      steered
+    </strong>
+    the car through the town. The circus couldn’t
+    <strong class="idiom-tip" idx="0">
+      accommodate
+    </strong>
+    all the people who wanted to see the show, but Ben had a ticket.
+  </p>
+  <p>
+    Ben
+    <strong class="idiom-tip" idx="12">
+      peered
+    </strong>
+    at the activity around him. He watched people of both
+    <strong class="idiom-tip" idx="7">
+      genders
+    </strong>
+    dance all around. They wore funny costumes, and their hair was
+    <strong class="idiom-tip" idx="5">
+      dyed
+    </strong>
+    many different colors. Also,
+    <strong class="idiom-tip" idx="18">
+      tame
+    </strong>
+    tigers with
+    <strong class="idiom-tip" idx="17">
+      stripes
+    </strong>
+    on their fur did tricks. Outside, people could
+    <strong class="idiom-tip" idx="3">
+      commission
+    </strong>
+    an
+    <strong class="idiom-tip" idx="9">
+      informal
+    </strong>
+    <strong class="idiom-tip" idx="13">
+      portrait
+    </strong>
+    . They
+    <strong class="idiom-tip" idx="14">
+      posed
+    </strong>
+    in front of a funny picture while an artist quickly drew them. Ben couldn’t
+    believe it. He was happier than he had ever been before.
+  </p>
+  <p>
+    That day, Ben knew what he wanted to do. He loved the circus to such an
+    <strong class="idiom-tip" idx="6">
+      extent
+    </strong>
+    that he wanted to have his own circus when he grew older.
+  </p>
+  <p>
+    Seeing the circus was like a
+    <strong class="idiom-tip" idx="4">
+      dose
+    </strong>
+    of medicine for him. He wasn’t unhappy anymore. He felt special. He
+    <strong class="idiom-tip" idx="10">
+      inquired
+    </strong>
+    about what he needed to do to have his own circus. He studied hard and
+    learned about business.
+  </p>
+  <p>
+    Ben worked very hard, and one day, he had his own circus. It was a great
+    circus. People told him that he could be very rich. But he wasn’t
+    <strong class="idiom-tip" idx="19">
+      tempted
+    </strong>
+    by money. He just wanted to make children happy. He knew the circus had
+    changed his life, and he wanted to do the same thing for others.
+  </p>
+</div>

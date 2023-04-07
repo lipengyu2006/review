@@ -367,7 +367,16 @@
       "url": "./data/eew3/audio/3track21.mp3",
       "duration": "02:16",
       "subtitle": "./data/eew3/subtitle/3track21.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "21",
+        "name": "21.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "21.txt"
+      }
     },
     {
       "title": "The Circus",
@@ -376,7 +385,16 @@
       "url": "./data/eew3/audio/3track22.mp3",
       "duration": "02:04",
       "subtitle": "./data/eew3/subtitle/3track22.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "22",
+        "name": "22.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "22.txt"
+      }
     },
     {
       "title": "Lazy Hans",
@@ -385,7 +403,16 @@
       "url": "./data/eew3/audio/3track23.mp3",
       "duration": "02:09",
       "subtitle": "./data/eew3/subtitle/3track23.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "23",
+        "name": "23.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "23.txt"
+      }
     },
     {
       "title": "Travel Writers",
@@ -394,7 +421,16 @@
       "url": "./data/eew3/audio/3track24.mp3",
       "duration": "02:05",
       "subtitle": "./data/eew3/subtitle/3track24.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "24",
+        "name": "24.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "24.txt"
+      }
     },
     {
       "title": "How Did Greenland Get Its Name?",
@@ -403,7 +439,16 @@
       "url": "./data/eew3/audio/3track25.mp3",
       "duration": "02:10",
       "subtitle": "./data/eew3/subtitle/3track25.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "25",
+        "name": "25.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "25.txt"
+      }
     },
     {
       "title": "Everyone Is Special",
@@ -412,7 +457,16 @@
       "url": "./data/eew3/audio/3track26.mp3",
       "duration": "02:09",
       "subtitle": "./data/eew3/subtitle/3track26.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "26",
+        "name": "26.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "26.txt"
+      }
     },
     {
       "title": "Pizarro and the Inco Gold",
@@ -421,7 +475,16 @@
       "url": "./data/eew3/audio/3track27.mp3",
       "duration": "02:10",
       "subtitle": "./data/eew3/subtitle/3track27.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "27",
+        "name": "27.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "27.txt"
+      }
     },
     {
       "title": "The Boy Who Saved the Town",
@@ -430,7 +493,16 @@
       "url": "./data/eew3/audio/3track28.mp3",
       "duration": "01:55",
       "subtitle": "./data/eew3/subtitle/3track28.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "28",
+        "name": "28.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "28.txt"
+      }
     },
     {
       "title": "An Interesting Life",
@@ -439,7 +511,16 @@
       "url": "./data/eew3/audio/3track29.mp3",
       "duration": "02:08",
       "subtitle": "./data/eew3/subtitle/3track29.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "29",
+        "name": "29.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "29.txt"
+      }
     },
     {
       "title": "The Island",
@@ -448,7 +529,16 @@
       "url": "./data/eew3/audio/3track30.mp3",
       "duration": "02:20",
       "subtitle": "./data/eew3/subtitle/3track30.srt",
-      "artwork": "./data/eew3/chapter3.jpg"
+      "artwork": "./data/eew3/chapter3.jpg",
+      "word": {
+        "path": "./data/eew3/word/",
+        "dir": "30",
+        "name": "30.json"
+      },
+      "story": {
+        "path": "./data/eew3/story/",
+        "name": "30.txt"
+      }
     }
   ]
 }
