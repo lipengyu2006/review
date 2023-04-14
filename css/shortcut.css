@@ -1,0 +1,67 @@
+#shortcut.assistant.hide {
+  display: none;
+}
+
+#shortcut {
+  width: 200px;
+  height: 200px;
+  display: grid;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  bottom: auto;
+  right: auto;
+  margin-top: -100px;
+  margin-left: -100px;
+  opacity: 0.4;
+  background: #40513B;
+  border-radius: 30%;
+  transition: all 0.1s ease;
+  grid-template-columns:
+    "i1 i2 i3"
+    "j1 j2 j3"
+    "k1 k2 k3";
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+}
+
+#shortcut > div,
+#shortcut > div > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#shortcut > div > div {
+  width: 40px;
+  height: 40px;
+}
+
+/* arrow common style */
+.arrow {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  border-top: 2px solid #EDF1D6;
+  border-right: 2px solid #EDF1D6;
+}
+
+.arrow-top {
+  transform: rotate(-45deg);
+}
+.arrow-right {
+  transform: rotate(45deg);
+}
+.arrow-bottom {
+  transform: rotate(135deg);
+}
+.arrow-left {
+  transform: rotate(-135deg);
+}
+
+.circle {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #EDF1D6;
+}

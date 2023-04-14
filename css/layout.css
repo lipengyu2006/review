@@ -38,6 +38,11 @@
   flex-direction: row;
   flex: 1;
 }
+#foot {
+  display: flex;
+  flex-direction: row-reverse;
+  height: 15px;
+}
 
 .logo {
   height: 49px;

@@ -236,6 +236,22 @@
   background: url(../icon/play-it-hover.svg);
   background-size: cover;
 }
+.locate-it {
+  position: relative;
+  left: 4px;
+  height: 16px;
+  width: 16px;
+  background: url(../icon/locate.svg);
+  background-size: cover;
+}
+.line.current .locate-it {
+  background: url(../icon/locate-on.svg);
+  background-size: cover;
+}
+.line:not(.current) .action > div:hover .locate-it {
+  background: url(../icon/locate-hover.svg);
+  background-size: cover;
+}
 .loop-it {
   position: relative;
   height: 16px;
